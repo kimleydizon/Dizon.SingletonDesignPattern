@@ -1,0 +1,13 @@
+C:\Users\Kimley\source\repos\Dizon.SingletonDesignPattern\Dizon.SingletonDesignPattern\obj\Debug\netcoreapp3.1\Dizon.SingletonDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kimley\source\repos\Dizon.SingletonDesignPattern\Dizon.SingletonDesignPattern\obj\Debug\netcoreapp3.1\Dizon.SingletonDesignPattern.AssemblyInfoInputs.cache
+C:\Users\Kimley\source\repos\Dizon.SingletonDesignPattern\Dizon.SingletonDesignPattern\obj\Debug\netcoreapp3.1\Dizon.SingletonDesignPattern.AssemblyInfo.cs
+C:\Users\Kimley\source\repos\Dizon.SingletonDesignPattern\Dizon.SingletonDesignPattern\obj\Debug\netcoreapp3.1\Dizon.SingletonDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\Kimley\source\repos\Dizon.SingletonDesignPattern\Dizon.SingletonDesignPattern\bin\Debug\netcoreapp3.1\Dizon.SingletonDesignPattern.exe
+C:\Users\Kimley\source\repos\Dizon.SingletonDesignPattern\Dizon.SingletonDesignPattern\bin\Debug\netcoreapp3.1\Dizon.SingletonDesignPattern.deps.json
+C:\Users\Kimley\source\repos\Dizon.SingletonDesignPattern\Dizon.SingletonDesignPattern\bin\Debug\netcoreapp3.1\Dizon.SingletonDesignPattern.runtimeconfig.json
+C:\Users\Kimley\source\repos\Dizon.SingletonDesignPattern\Dizon.SingletonDesignPattern\bin\Debug\netcoreapp3.1\Dizon.SingletonDesignPattern.runtimeconfig.dev.json
+C:\Users\Kimley\source\repos\Dizon.SingletonDesignPattern\Dizon.SingletonDesignPattern\bin\Debug\netcoreapp3.1\Dizon.SingletonDesignPattern.dll
+C:\Users\Kimley\source\repos\Dizon.SingletonDesignPattern\Dizon.SingletonDesignPattern\bin\Debug\netcoreapp3.1\Dizon.SingletonDesignPattern.pdb
+C:\Users\Kimley\source\repos\Dizon.SingletonDesignPattern\Dizon.SingletonDesignPattern\obj\Debug\netcoreapp3.1\Dizon.SingletonDesignPattern.dll
+C:\Users\Kimley\source\repos\Dizon.SingletonDesignPattern\Dizon.SingletonDesignPattern\obj\Debug\netcoreapp3.1\Dizon.SingletonDesignPattern.pdb
+C:\Users\Kimley\source\repos\Dizon.SingletonDesignPattern\Dizon.SingletonDesignPattern\obj\Debug\netcoreapp3.1\Dizon.SingletonDesignPattern.genruntimeconfig.cache
